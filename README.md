@@ -41,11 +41,11 @@ Click on the latest action and download the artifact pengu-loader
 **[nomi-san](https://github.com/nomi-san)**
   - Pengu Loader
 
-**[teisseire117](https://github.com/nomi-san)**
+**[teisseire117](https://github.com/teisseire117)**
   - Auto-Accept
   - Display-Back-Summoner-Names
   - Dodge-Button
   - Offline-Mode
 
-[floyare](https://github.com/nomi-san)
+[floyare](https://github.com/floyare)
 - Purple-Theme
