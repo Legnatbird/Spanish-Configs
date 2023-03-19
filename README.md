@@ -17,6 +17,7 @@ DisableWebSecurity=1
 IgnoreCertificateErrors=1
 RemoteDebuggingPort=8888
 ```
+Or if you want use the config file of the repo, just copy and paste in the root ^^
 # What I changed
 
 - **Display-Back-Summoner-Names:** Changed the language to spanish, and add some css.
