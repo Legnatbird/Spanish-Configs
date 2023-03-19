@@ -7,7 +7,7 @@
 </div>
 
 # How to install
-Just download the zip file and extract it in your Pluginsfolder.
+Just download the zip file and extract it in your Plugins folder.
 # What I changed
 
 - **Display-Back-Summoner-Names:** Changed the language to spanish, and add some css.
