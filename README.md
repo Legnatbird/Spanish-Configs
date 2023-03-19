@@ -8,6 +8,15 @@
 
 # How to install
 Just download the zip file and extract it in your Plugins folder.
+
+The next step is create a config file in the root of Pengu Loader with the name `config` and add this code:
+```ini
+[Main]
+LeaguePath=C:\Riot Games\League of Legends # Change this to your League of Legends path
+DisableWebSecurity=1
+IgnoreCertificateErrors=1
+RemoteDebuggingPort=8888
+```
 # What I changed
 
 - **Display-Back-Summoner-Names:** Changed the language to spanish, and add some css.
