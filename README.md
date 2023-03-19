@@ -3,14 +3,16 @@
     <img src="https://i.imgur.com/kQOMxqS.jpg" width="144"/>
   </a>
   <h1 align="center">Spanish Configs for Pengu Loader</h1>
+  <h3>Pengu Loader Version 1.0.1</h3>
 </div>
 
+# How to install
+Just download the zip file and extract it in your Pluginsfolder.
 # What I changed
+
 - **Display-Back-Summoner-Names:** Changed the language to spanish, and add some css.
 - **Purple-Theme:** I changed the button text to spanish.
 - **Auto-Accept:** I changed the language to spanish.
-
-Pengu Loader Version 1.0.1
 
 # Pengu Loader Download:
 https://github.com/PenguLoader/PenguLoader/actions
