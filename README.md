@@ -21,9 +21,9 @@ RemoteDebuggingPort=8888
 Or if you want use the config file of the repo, just copy and paste in the root ^^
 # What I changed
 
-- **Display-Back-Summoner-Names:** Changed the language to spanish, and add some css.
-- **Purple-Theme:** I changed the button text to spanish.
-- **Auto-Accept:** I changed the language to spanish.
+- **Display-Back-Summoner-Names:** The language to spanish, and add some css.
+- **Purple-Theme:** The button text to spanish.
+- **Auto-Accept:** The language to spanish.
 
 # Preview
 ![image](https://user-images.githubusercontent.com/50637445/226189408-4ec8a9fa-2d4a-4b07-91d8-e5c4952372fa.png)
